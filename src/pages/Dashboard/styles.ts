@@ -56,7 +56,6 @@ export const Repositories = styled.div`
     text-decoration: none;
     display: flex;
     align-items: center;
-    justify-content: space-between;
 
     img {
       width: 64px;
@@ -65,7 +64,8 @@ export const Repositories = styled.div`
     }
 
     div {
-      margin-left: 16px;
+      margin: 0 16px;
+      flex: 1;
       strong {
         font-size: 20px;
         color: #c2c2b2;
@@ -80,6 +80,7 @@ export const Repositories = styled.div`
 
     svg {
       color: #343429;
+      margin-left: auto;
     }
 
     transition: transform 0.2s;
