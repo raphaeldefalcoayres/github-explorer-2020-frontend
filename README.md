@@ -3,11 +3,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/raphaeldefalcoayres/lectures-backend/blob/master/LICENSE)
 
 <p>
-  <a href="#requisitos-do-projeto">Requisítos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#especificações-de-funcionalidades">Especificações</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#dados">Dados</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#critérios-de-avaliação">Critérios</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#sugestões-extras-não-obrigatórias">Extras</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#instalação">Instalação</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#contruído-com">Construído com</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#licença">Licença</a>
